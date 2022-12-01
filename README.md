@@ -1,2 +1,2 @@
-# Face-Req
+# FaceReq
 Face recognition with GUI
